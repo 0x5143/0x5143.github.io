@@ -19,7 +19,7 @@ newsourceroot: https://github.com/hqcchina/hqcchina.github.com/new/master
 #########################################
 # disqus.com commenting system.
 disqus_shortname: yunjing
-disqus_url: "http://www.yunjing.me"
+disqus_url: "https://hqcchina.github.io"
 #########################################
 
 # Build settings
