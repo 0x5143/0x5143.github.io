@@ -8,7 +8,7 @@ description: yunjing's personal website
 #   Google search results) and in your feed.xml site description.
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://hqcchina.github.io" # the base hostname & protocol for your site
+# url: "https://hqcchina.github.io" # the base hostname & protocol for your site
 # twitter_username: hqcchina
 github_username: hqcchina
 permalink: /:year/:month/:day/:title/
