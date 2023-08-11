@@ -1,7 +1,7 @@
 云景
 =======
 
-博客源码：[http://www.yunjing.me](http://www.yunjing.me)
+博客源码：[https://hqcchina.github.io/](https://hqcchina.github.io/)
 
 使用GitHub + Jekyll + Markdown。
 
