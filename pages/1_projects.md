@@ -12,7 +12,7 @@ permalink: /projects/
 罗列曾经完成的项目，包括业余与工作的所有内容。
 
 #### 你胖你先吃
-* Started: 2017年6月-现在
+* Started: 2017年6月-2018年3月
 * 状态：上线
 * Website: [eat.crazyant.com](http://eat.crazyant.com)
 * 技术栈
