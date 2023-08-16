@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Commands
 comments: true
 permalink: /commands/
 ---
