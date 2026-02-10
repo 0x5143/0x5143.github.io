@@ -12,7 +12,6 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
-      <p class="navbar-text"></p>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -23,7 +22,7 @@
           {% else %}
           <li>
         {% endif %}
-        <a href="{{ site.baseurl }}/">Home</a></li>
+        <a href="{{ site.baseurl }}/">首页</a></li>
 
         {% for p in site.pages %}
           {% if p.title and p.url and p.url != "/" %}
@@ -32,7 +31,7 @@
               {% else %}
               <li>
             {% endif %}
-            <a href="{{ p.url | prepend: site.baseurl }}"><span class="glyphicon {{ p.icon }}"></span> {{ p.title }} {{ p.tags }}</a></li>
+            <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }} {{ p.tags }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
