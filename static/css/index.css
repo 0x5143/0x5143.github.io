@@ -5,7 +5,11 @@
 
 /* ===== Base ===== */
 body {
-	background: linear-gradient(135deg, #667eea 0%, #764ba2 25%, #f093fb 50%, #4facfe 75%, #00f2fe 100%);
+	background-color: #eef0f4;
+	background-image:
+		linear-gradient(rgba(0,0,0,0.04) 1px, transparent 1px),
+		linear-gradient(90deg, rgba(0,0,0,0.04) 1px, transparent 1px);
+	background-size: 24px 24px;
 	background-attachment: fixed;
 	font-family: "LXGW WenKai", "Noto Serif SC", "Songti SC", "STSong", "SimSun", Georgia, serif;
 	color: #1a1a1a;
