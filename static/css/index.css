@@ -294,7 +294,6 @@ blockquote:last-child {
 	height: 44px;
 	background-color: rgba(139,37,0,0.6);
 	border-radius: 50%;
-	opacity: 0;
 	display: none;
 	z-index: 888;
 	transition: opacity 0.3s ease;
