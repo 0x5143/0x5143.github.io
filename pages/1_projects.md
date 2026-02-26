@@ -13,7 +13,7 @@ permalink: /projects/
 
 ---
 
-#### M95 项目
+#### 代号 M95 项目
 * Started: 2025年1月24日 - 2026年2月26日
 * 状态：预研阶段
 * 简介
@@ -26,7 +26,7 @@ permalink: /projects/
 
 ---
 
-#### M11 项目
+#### 代号 M11 项目
 * Started: 2023年3月17日 - 2025年1月23日
 * 状态：研发完成
 * 简介
@@ -39,7 +39,7 @@ permalink: /projects/
 
 ---
 
-#### :contentReference[oaicite:0]{index=0}
+#### [异化之地](https://www.taptap.cn/app/69792)
 * Started: 2019年10月 - 2023年3月
 * 状态：上线
 * 简介
@@ -53,7 +53,7 @@ permalink: /projects/
 
 ---
 
-#### :contentReference[oaicite:1]{index=1}
+#### [怪物工程师](https://www.taptap.cn/app/72315?os=android)
 * Started: 2018年3月 - 2019年9月
 * 状态：上线
 * 简介
