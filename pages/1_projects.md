@@ -23,6 +23,7 @@ permalink: /projects/
 * 技术要点
   * 预研阶段侧重系统原型与数值模拟
   * 快速迭代验证玩法闭环与留存模型
+  * 深度体验 Cursor + Claude Code + GitHub Copilot 并在自研脚本语言GS中尝试编写业务模块代码
 
 ---
 
