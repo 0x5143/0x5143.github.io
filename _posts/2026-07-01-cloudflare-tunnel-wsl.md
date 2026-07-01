@@ -1,12 +1,18 @@
-### layout: post  
-title: "免服务器实现内网穿透：使用 Cloudflare Tunnel 远程访问家里 WSL 服务"  
-date: 2026-07-01 10:35:00 +0800  
-categories: \[网络技术, 内网穿透\]  
-tags: \[Cloudflare, WSL, 内网穿透, Hermes, 生产力\]  
+--- 
+layout: post
+title: "免服务器实现内网穿透：使用 Cloudflare Tunnel 远程访问家里 WSL 服务"
+comments: true
+categories:
+ - 网络技术
+ - 内网穿透
+tags:
+ - Cloudflare
+ - WSL
+ - 内网穿透
+ - Hermes
+ - 生产力
 description: "介绍如何利用 Cloudflare Tunnel (Zero Trust) 实现免服务器的内网穿透，完美解决公司网络限制且无需安装客户端的远程访问需求。"  
-keywords: "Cloudflare Tunnel, 内网穿透, WSL 穿透, 免服务器穿透, frp 替代"  
-author: github\0x5143
-published: true
+---
 
 ### 免服务器实现内网穿透：使用 Cloudflare Tunnel 远程访问家里 WSL 服务
 
